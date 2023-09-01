@@ -1,3 +1,3 @@
 #!/bin/bash
-ls -lan . .. /boot > output.txt
+ls -lan . .. /boot 
 
